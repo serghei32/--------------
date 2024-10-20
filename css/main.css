@@ -10,3 +10,9 @@
 .menu li {
   background-color: red;
 }
+
+li {
+    font-size: 30px;
+    list-style-type: none;
+    text-decoration: underline;
+}
