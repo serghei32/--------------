@@ -1,0 +1,12 @@
+@import url(_footer.scss);
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.menu ul {
+  letter-spacing: normal;
+}
+.menu li {
+  background-color: red;
+}

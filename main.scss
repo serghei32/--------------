@@ -1,0 +1,19 @@
+@import url(_footer.scss);
+
+$default_color:red;
+$primery: green;
+
+
+// body{
+//     background-color: $default_color;
+// }
+
+.menu{
+    display: flex;
+    ul{
+        letter-spacing: normal;
+    }
+    li{
+        background-color: $default_color;
+    }
+}
